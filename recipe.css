@@ -20,6 +20,9 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   
 }
+.footer {
+    float: right;
+}
 ul {
     list-style-image: url("https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif");
 }
