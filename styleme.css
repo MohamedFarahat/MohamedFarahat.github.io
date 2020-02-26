@@ -1,0 +1,19 @@
+.backgroundDiv{
+  
+  background-color :skyblue
+}
+.backgroundbody{
+  
+  background-color :grey
+}
+.ColorDiv{
+  color: blue
+  
+}
+
+.FontDiv{
+  font-family: Verdana;
+  font-size: 15px;
+  font-style: italic;
+ 
+}
