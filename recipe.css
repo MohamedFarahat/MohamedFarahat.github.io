@@ -19,6 +19,7 @@ h6 {
     text-decoration: underline;
     font-size: 18px;
     align-content: flex-start;
+    letter-spacing: 4px;
 }
 
 .mainheading {
