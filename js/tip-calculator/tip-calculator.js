@@ -5,7 +5,7 @@ function calculateTip() {
     if (isNaN(subTotal.value) || isNaN(tip.value)) {
         alert('You shoud fill the fields with a number before calculate.');
         document.getElementById('total').innerHTML = '';
-    } else {
+     } else {
         var tip = parseFloat(subTotal.value) * (parseFloat(tip.value) / 100);
         var result = parseFloat(subTotal.value) + parseFloat(tip); 
         document.getElementById('total').innerHTML = '$'+ result.toFixed(2);
